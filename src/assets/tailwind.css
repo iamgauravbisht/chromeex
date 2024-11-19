@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 4px;
+  font-family: "Nunito", sans-serif, "Arial", "Helvetica", "Roboto", "Arial";
+}
